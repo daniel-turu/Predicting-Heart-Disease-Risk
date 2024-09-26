@@ -67,6 +67,4 @@ This project requires the following Python libraries:
 * scikit-learn
 
 
-
-
-> **<div style="text-align: right"> By Turu Daniel Joseph </div>**
+> **<div style="text-align: right"> [By Turu Daniel Joseph](https://my-portfolio-daniel-turu.vercel.app/) </div>**
