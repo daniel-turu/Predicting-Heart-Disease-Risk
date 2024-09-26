@@ -1,0 +1,40 @@
+{
+  "description": "This is a system generated manifest of files expected to be present in this zip. It can be safely deleted.",
+  "metadata": {
+    "generated_at": "2024-09-18T15:16:35+00:00",
+    "trigger": {
+      "file_hashid": "unknown",
+      "action": "unknown"
+    }
+  },
+  "manifest": [
+    {
+      "filename": "Train Dataset .csv",
+      "filesize": 317864,
+      "description": "Train contains the target. This is the dataset that you will use to train your model.",
+      "created_at": "2024-09-18 13:17:51 UTC",
+      "updated_at": "2024-09-18 13:18:03 UTC"
+    },
+    {
+      "filename": "Sample Submission.csv",
+      "filesize": 18886,
+      "description": "Is an example of what your submission file should look like. The order of the rows does not matter, but the names of the \"ID\" must be correct.",
+      "created_at": "2024-09-18 13:19:08 UTC",
+      "updated_at": "2024-09-18 13:19:19 UTC"
+    },
+    {
+      "filename": "Test Dataset.csv",
+      "filesize": 111997,
+      "description": "Test resembles Train.csv but without the target-related columns. This is the dataset on which you will apply your model to.",
+      "created_at": "2024-09-18 13:19:31 UTC",
+      "updated_at": "2024-09-18 13:19:46 UTC"
+    },
+    {
+      "filename": "Variable_Definitions.csv",
+      "filesize": 470,
+      "description": "This file describes the variables found in train and test. ",
+      "created_at": "2024-09-18 15:16:13 UTC",
+      "updated_at": "2024-09-18 15:16:35 UTC"
+    }
+  ]
+}
